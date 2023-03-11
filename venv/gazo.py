@@ -8,9 +8,9 @@ import os
 import urllib.request
 import time
 #p
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
+#from selenium import webdriver
+#from selenium.webdriver.common.by import By
+#sfrom selenium.webdriver.common.action_chains import ActionChains
 
 
 #img　に入った画像の経度緯度を取る。
